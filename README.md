@@ -31,7 +31,7 @@ B. _Diagrama de Clases_
 ## Ejercicio 3
 A. _Patron Escogido_
 
-**State**
+**Template**
 
 B. _Diagrama de Clases_
 
