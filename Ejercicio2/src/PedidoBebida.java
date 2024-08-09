@@ -1,11 +1,13 @@
-public class PedidoJugo extends Pedido {
+public class PedidoBebida extends Pedido {
     @Override
     void prepararPedido() {
-        //como prepara el pedido
+        System.out.println("Preparando la bebida 🍹🍹");
     }
 
     @Override
     void calcularPrecio() {
-        // calcula el precioo depedniedno de estas clase
+        int precioFuerte = 7000;
+        System.out.println("El precio del plato fuerte es de "+precioFuerte+" $");
+
     }
 }
