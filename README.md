@@ -12,3 +12,23 @@ Este proyecto está desarrollado por el equipo La Banda.
 A. _Patron Escogido_
 
 B. _Diagrama de Clases_
+
+## Ejercicio 2
+A. _Patron Escogido_
+
+B. _Diagrama de Clases_
+
+## Ejercicio 3
+A. _Patron Escogido_
+
+B. _Diagrama de Clases_
+
+## Ejercicio 4
+A. _Patron Escogido_
+
+B. _Diagrama de Clases_
+
+## Ejercicio 5
+A. _Patron Escogido_
+
+B. _Diagrama de Clases_
