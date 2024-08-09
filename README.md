@@ -15,6 +15,9 @@ Prototype
 
 B. _Diagrama de Clases_
 
+![Ejercicio1](https://github.com/user-attachments/assets/238cdeb8-e32d-45da-990f-5fd319f21d51)
+
+
 ## Ejercicio 2
 A. _Patron Escogido_
 
