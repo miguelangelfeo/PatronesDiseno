@@ -25,7 +25,7 @@ Observer
 
 B. _Diagrama de Clases_
 
-![image](https://github.com/user-attachments/assets/22910b95-3a83-4612-b5a5-2c58b49ba876)
+![Ejercicio2](https://github.com/user-attachments/assets/142deb6f-24c7-4a88-bbea-734370122bce)
 
 
 ## Ejercicio 3
@@ -51,4 +51,9 @@ B. _Diagrama de Clases_
 ## Ejercicio 5
 A. _Patron Escogido_
 
+Decorator
+
 B. _Diagrama de Clases_
+
+![Ejercicio5](https://github.com/user-attachments/assets/c03c3a96-16e0-4788-9699-4feacf761db7)
+
