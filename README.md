@@ -26,10 +26,13 @@ B. _Diagrama de Clases_
 A. _Patron Escogido_
 
 State
+
 B. _Diagrama de Clases_
 
 ## Ejercicio 4
 A. _Patron Escogido_
+
+Command
 
 B. _Diagrama de Clases_
 
