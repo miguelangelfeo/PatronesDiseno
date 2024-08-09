@@ -25,12 +25,19 @@ Observer
 
 B. _Diagrama de Clases_
 
+![Ejercicio2](https://github.com/user-attachments/assets/9259e97e-ec54-4ebf-9b70-404866a3eed1)
+
+
+
 ## Ejercicio 3
 A. _Patron Escogido_
 
 State
 
 B. _Diagrama de Clases_
+
+
+
 
 ## Ejercicio 4
 A. _Patron Escogido_
