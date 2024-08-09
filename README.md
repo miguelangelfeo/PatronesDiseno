@@ -36,7 +36,7 @@ State
 
 B. _Diagrama de Clases_
 
-
+![Ejercicio3](https://github.com/user-attachments/assets/638b9d56-30d1-4013-87ad-1e437160963d)
 
 
 ## Ejercicio 4
