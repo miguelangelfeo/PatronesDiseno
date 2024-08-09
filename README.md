@@ -10,11 +10,13 @@ Este proyecto está desarrollado por el equipo La Banda.
 
 ## Ejercicio 1
 A. _Patron Escogido_
+Prototype
 
 B. _Diagrama de Clases_
 
 ## Ejercicio 2
 A. _Patron Escogido_
+Observer
 
 B. _Diagrama de Clases_
 
