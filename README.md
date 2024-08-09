@@ -39,6 +39,9 @@ Command
 
 B. _Diagrama de Clases_
 
+![Ejercicio 4](https://github.com/user-attachments/assets/dec6b677-4ec0-4c61-845a-9d423539b367)
+
+
 ## Ejercicio 5
 A. _Patron Escogido_
 
