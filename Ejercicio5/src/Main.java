@@ -1,5 +1,10 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Habitacion habitacion = new HabitacionBasica();
+
+        habitacion = new FlowerDecorator(habitacion);
+        habitacion = new ChocolateDecorator(habitacion);
+
+        habitacion.decorar();
     }
 }
