@@ -25,8 +25,7 @@ Observer
 
 B. _Diagrama de Clases_
 
-![Ejercicio2](https://github.com/user-attachments/assets/9259e97e-ec54-4ebf-9b70-404866a3eed1)
-
+![image](https://github.com/user-attachments/assets/22910b95-3a83-4612-b5a5-2c58b49ba876)
 
 
 ## Ejercicio 3
