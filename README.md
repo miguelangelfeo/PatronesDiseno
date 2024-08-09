@@ -11,7 +11,7 @@ Este proyecto está desarrollado por el equipo La Banda.
 ## Ejercicio 1
 A. _Patron Escogido_
 
-Prototype
+**Prototype**
 
 B. _Diagrama de Clases_
 
@@ -21,7 +21,7 @@ B. _Diagrama de Clases_
 ## Ejercicio 2
 A. _Patron Escogido_
 
-Observer
+**Observer**
 
 B. _Diagrama de Clases_
 
@@ -31,7 +31,7 @@ B. _Diagrama de Clases_
 ## Ejercicio 3
 A. _Patron Escogido_
 
-State
+**State**
 
 B. _Diagrama de Clases_
 
@@ -41,7 +41,7 @@ B. _Diagrama de Clases_
 ## Ejercicio 4
 A. _Patron Escogido_
 
-Command
+**Command**
 
 B. _Diagrama de Clases_
 
@@ -51,7 +51,7 @@ B. _Diagrama de Clases_
 ## Ejercicio 5
 A. _Patron Escogido_
 
-Decorator
+**Decorator**
 
 B. _Diagrama de Clases_
 
